@@ -17,6 +17,13 @@
     "warningColor": "FFCC4D",
     "errorColor": "FB2F61",
 
-    "auditChannelID": "1297313022548906078"
+    "auditChannelID": "1297313022548906078",
+
+    "xpPerMessage": 16,
+    "cooldown": 1000,
+
+    "levelUpEmbedColor": "Green",
+    "levelUpEmbedDesc": "Congratulations, {user}! You have levelled up to **Level {level}**!\n\n`💡` Run `/level toggle` to turn off these pings.",
+    "levelUpChannelID": "Default"
 
 }
