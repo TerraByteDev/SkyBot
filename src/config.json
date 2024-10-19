@@ -1,0 +1,22 @@
+{
+    "botName": "SkyBot",
+    
+    "notYourButton": "`🚫` You can't use this button!",
+
+    "errorMessage": "`⚠️` Something went wrong. Please contact the developers / staff team.",
+
+    "noPermissions": "`🚫` You do not have the sufficient permissions to run this command.",
+
+    "botNoPermissions": "`⚠️` I do not have the sufficient permissions to run this command. Please contact the developers / staff team.",
+
+    "hasHigherRole": "`⚠️` You cannot do this as this member has a higher role than you, or has the same role.",
+
+    "cannotInteractWithSelf": "`🚫` You cannot do that to yourself.",
+
+    "successColor": "#00D26A",
+    "warningColor": "FFCC4D",
+    "errorColor": "FB2F61",
+
+    "auditChannelID": "1297313022548906078"
+
+}
